@@ -1,4 +1,5 @@
 gt:
 	git add .
 	git commit -m 'commit'
-	git push origin
+	git branch -M main
+	git push origin main
